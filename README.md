@@ -1,10 +1,7 @@
 # 바이오 파이토치 : 파이토치와 전이학습을 바이오에 적용하는 스터디
 
 
-<img src=https://github.com/biospin/bio_pytorch/blob/master/bio_pytorch_01.jpg  width=600  height=300/>
 <img src=https://github.com/biospin/bio_pytorch/blob/master/bio_pytorch_02.jpg  width=600  height=300/>
-<img src=https://github.com/biospin/bio_pytorch/blob/master/bio_pytorch_03.jpg  width=600  height=300/>
-<img src=https://github.com/biospin/bio_pytorch/blob/master/bio_pytorch_04.jpg  width=600  height=300/>
 
 
 ## 스터디 정보
